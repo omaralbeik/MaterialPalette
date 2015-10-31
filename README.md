@@ -1,6 +1,8 @@
 # MaterialPalette
 MaterialPalette
 
+![alt tag](https://github.com/omaralbeik/MaterialPalette/blob/master/HowToUse.gif?raw=true)
+
 ![alt tag](https://github.com/omaralbeik/MaterialPalette/blob/master/MaterialPaletteColors.png?raw=true)
 
 Who doesn't love Material Design ?
