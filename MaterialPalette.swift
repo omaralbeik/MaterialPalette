@@ -38,7 +38,7 @@ struct MaterialPalette {
 	static let red = UIColor(netHex: 0xF6402C)
 	static let pink = UIColor(netHex: 0xEB1460)
 	static let purple = UIColor(netHex: 0x9D1AB1)
-	static let purpleDeep = UIColor(netHex: 0x6633B9)
+	static let purple_deep = UIColor(netHex: 0x6633B9)
 	static let indigo = UIColor(netHex: 0x6633B9)
 	static let blue = UIColor(netHex: 0x0F93F5)
 	static let blue_light = UIColor(netHex: 0x00A6F6)
